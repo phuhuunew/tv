@@ -48,7 +48,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #--*.*--HTV--*.*--#
 #EXTINF:-1 tvg-id="htv1" tvg-group-logo="https://bom.so/uJvwTF" group-title="HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
