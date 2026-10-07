@@ -72,7 +72,7 @@ https://live.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=100
 https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1
-https://freem3u.xyz/api/live/play.m3u8?vid=
+https://freem3u.xyz/api/live/play.m3u8?vid=54
 
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2
 https://freem3u.xyz/api/live/play.m3u8?vid=90
