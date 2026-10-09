@@ -134,7 +134,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=48
 https://freem3u.xyz/api/live/play.m3u8?vid=70
 
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",Tuyên Quang
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=92
 
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",Thái Nguyên
 https://freem3u.xyz/api/live/play.m3u8?vid=88
