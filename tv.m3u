@@ -161,7 +161,7 @@ https://vips-livecdn.fptplay.net/live/media/haiphong/live-hls-avc/haiphong-avc1_
 https://freem3u.xyz/api/live/play.m3u8?vid=59
 
 #EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",Gia Lai
-https://vmttv.dpdns.org/tv360/?id=gia-lai
+https://freem3u.xyz/api/live/play.m3u8?vid=55
 
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",Ninh Bình
 https://freem3u.xyz/api/live/play.m3u8?vid=75
