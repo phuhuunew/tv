@@ -24,7 +24,7 @@ https://dethich.pw/vtv5tnb/index.m3u8
 https://dethich.pw/vtv5tn/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
-https://dethich.pw/vtv6/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv6
 
 #EXTINF:-1 tvg-id="vtv7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7
 https://dethich.pw/vtv7/index.m3u8
