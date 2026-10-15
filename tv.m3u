@@ -30,7 +30,7 @@ https://dethich.pw/vtv6/index.m3u8
 https://dethich.pw/vtv7/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8
-https://dethich.pw/vtv8/index.m3u88
+https://dethich.pw/vtv8/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9
 https://dethich.pw/vtv9/index.m3u8
