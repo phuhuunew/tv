@@ -18,10 +18,10 @@ https://vmttv.dpdns.org/tv360/?id=vtv4
 https://vmttv.dpdns.org/tv360/?id=vtv5
 
 #EXTINF:-1 tvg-id="vtv5tnb" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png" group-title="VTV",VTV5 Tây Nam Bộ
-https://dethich.pw/vtv5tnb/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
 
 #EXTINF:-1 tvg-id="vtv5tn" tvg-name="VTV5 TN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png" group-title="VTV",VTV5 Tây Nguyên
-https://dethich.pw/vtv5tn/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
 
 #EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
 https://vmttv.dpdns.org/tv360/?id=vtv6
