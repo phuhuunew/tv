@@ -125,6 +125,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=66
 https://freem3u.xyz/api/live/play.m3u8?vid=35
 
 #EXTINF:0 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",An Giang 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:0 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",Cà Mau
