@@ -3,7 +3,7 @@
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1" tvg-group-logo="https://bom.so/ZnBKQ7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=2
+https://vmttv.dpdns.org/tv360/?id=vtv1
 
 #EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2
 https://vmttv.dpdns.org/tv360/?id=vtv2
@@ -15,7 +15,7 @@ https://vmttv.dpdns.org/tv360/?id=vtv3
 https://vmttv.dpdns.org/tv360/?id=vtv4
 
 #EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5
-https://freem3u.xyz/api/live/play.m3u8?vid=110
+https://vmttv.dpdns.org/tv360/?id=vtv5
 
 #EXTINF:-1 tvg-id="vtv5tnb" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png" group-title="VTV",VTV5 Tây Nam Bộ
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
