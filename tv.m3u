@@ -3,7 +3,7 @@
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1" tvg-group-logo="https://bom.so/ZnBKQ7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
-https://vmttv.dpdns.org/tv360/?id=vtv1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
 
 #EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2
 https://vmttv.dpdns.org/tv360/?id=vtv2
