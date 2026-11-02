@@ -3,19 +3,19 @@
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1" tvg-group-logo="https://bom.so/ZnBKQ7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
-https://dethich.pw/vtv1/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv1
 
 #EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2
-https://dethich.pw/vtv2/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv2
 
 #EXTINF:-1 tvg-id="vtv3" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3
-https://dethich.pw/vtv3/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv3
 
 #EXTINF:-1 tvg-id="vtv4" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV4.png",VTV4
-https://dethich.pw/vtv4/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv4
 
 #EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5
-https://dethich.pw/vtv5/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv5
 
 #EXTINF:-1 tvg-id="vtv5tnb" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png" group-title="VTV",VTV5 Tây Nam Bộ
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
@@ -24,19 +24,19 @@ https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
 
 #EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
-https://dethich.pw/vtv6/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv6
 
 #EXTINF:-1 tvg-id="vtv7" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7
-https://dethich.pw/vtv7/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv7
 
 #EXTINF:-1 tvg-id="vtv8" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8
-https://dethich.pw/vtv8/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv8
 
 #EXTINF:-1 tvg-id="vtv9" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9
-https://dethich.pw/vtv9/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv9
 
 #EXTINF:-1 tvg-id="vtv10" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
-https://dethich.pw/vtv10/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=vtv10
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",VIỆT NAM TODAY
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
@@ -69,7 +69,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=193
 https://freem3u.xyz/api/live/play.m3u8?vid=194
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png", HTV Thể Thao
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv-the-thao
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1
 https://freem3u.xyz/api/live/play.m3u8?vid=54
